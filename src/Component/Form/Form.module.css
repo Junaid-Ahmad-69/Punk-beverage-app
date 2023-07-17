@@ -1,0 +1,27 @@
+form{
+    margin: 3rem 0;
+}
+.formControl {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.inputForm {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.inputForm > label {
+    font-weight: bold;
+}
+
+.inputForm > input {
+    outline: none;
+    border: 1px solid black;
+    border-radius: 6px;
+    padding: 0.4rem;
+    width: 100%;
+    min-width: 20rem;
+}

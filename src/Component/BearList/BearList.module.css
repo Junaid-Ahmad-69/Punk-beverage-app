@@ -1,0 +1,24 @@
+.container {
+    width: 100%;
+    max-width: 1350px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    text-align: left;
+    padding-left: 10px;
+}
+
+td {
+    padding: 0 15px;
+}
+
+thead {
+    border-bottom: 2px solid #000;
+}
+
