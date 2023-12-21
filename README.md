@@ -1,3 +1,5 @@
+![image](https://github.com/Junaid-Ahmad-69/12-udemy-punk-filter/assets/85307602/ce503081-0e79-4914-8159-dbefb84095ee)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
